@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-Desenvolvido para aprendizado. Realizado efeito de digitaçãoo com Javascript. 21/10/22
+Desenvolvido para aprendizado. Realizado efeito de digitação com Javascript. 21/10/22
 
 
 [🔗 Clique aqui para acessar] (https://michel-maia.github.io/Efeito-Digitação-com-Javascript/)
